@@ -74,9 +74,7 @@ I'm Anmol<div align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/kr_saurabh_952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhkr952" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/saurabhkr952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkr952" height="30" width="40" /></a>
-  <a href="https://fb.com/saurabhkr952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabhkr952" height="30" width="40" /></a>
-  <a href="https://instagram.com/kr_saurabh_952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr_saurabh_952" height="30" width="40" /></a>
-  <a href="https://devopseasyinitiate.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="kr_saurabh_952" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/anmol-pal-b8855a147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkr952" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anmol_pal99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr_saurabh_952" height="30" width="40" /></a>
+  
 </p>
