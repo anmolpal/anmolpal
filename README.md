@@ -61,16 +61,16 @@ I'm Anmol<div align="right">
 - Tools: Linux, Shell, Docker, Dockerfile, Azure ACR.
 
 **[Airflow Container App for Azure MarketPlace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/kockpitanalyticspvtltd1645177427945.container-airflow?tab=Overview)**
-- Building Scalable and Reliable Applications with Jenkins, Node/React, Argo CD, and EKS.
-- Tools: Node.js, GitHub, Docker, Jenkins, Argo CD, AWS EKS
+- Created App for Microsoft Azure hosting a Airflow Container using Docker.
+- Tools: Linux, Shell, Azure, DockerFile, YAML, JSON.
 
-**[aws-automation-scripts](https://github.com/Saurabhkr952/python-automation-scripts)**
-- AWS Resource Automation with Python scripts.
-- Tools: Python, AWS
+**[Big Data Analytics Tool Automated For Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/kockpitanalyticspvtltd1645177427945.kockpit-hadoopsparkm?tab=Overview)**
+- Big Data Analytics tools like Hadoop and Spark and the method of cluster creation is automated using Shell Scripting
+- Tools: Shell, JSON, Python, Azure, HTML
 
-**[WordPress Application on AWS (wip)](https://github.com/Saurabhkr952/Wordpress-Application-on-AWS)**
-- Setting up a WordPress application on AWS using modern DevOps tools and practices to ensure scalability, efficiency, and reliability.
-- Tools: AWS, Terraform, Ansible
+**[PostgreSQL Containerized in a Azure VM](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/kockpitanalyticspvtltd1645177427945.container-postgres?tab=Overview)**
+- Containerized Instance of a PostgreSQL Database using Docker and created a UI for easy access to container.
+- Tools: DockerFile, Azure, Shell, JSON, HTML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
