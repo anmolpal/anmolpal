@@ -48,17 +48,17 @@ I'm Anmol<div align="right">
 - Infrastructure Automation of Hadoop, Spark, Airflow and other Apache Services.
 - Tools: Shell, JSON, YAML, JAR.
 
-**[dev-portfolio](https://github.com/saurabhkr952/dev-portfolio)**
-- Orchestrated Secure and Scalable Amazon EKS Cluster with Terraform, CI/CD, Slack, Prometheus, Grafana, and Kubecost.
-- Tools: Node.js, GitHub, Trivy, Docker, GitHub Actions, AWS, Terraform, Argo CD, AWS EKS, Prometheus, Grafana, Slack, Kubecost
+**[Using Terraform for Automation of Deployment of Resources.](https://github.com/anmolpal/TerraformTemplate-Azure)**
+- Used HCL scripting to Automate Deployment of Azure Resources.
+- Tools: Shell, JSON, HCL, Python, Azure CLI.
 
-**[counter-demo-app](https://github.com/Saurabhkr952/counter-app-demo)**
-- Robust CI/CD Pipeline with Jenkins for Java-based application using Maven, SonarQube, Argo CD, Helm, and Kubernetes.
-- Tools: Jenkins, Maven, JUnit 5, Docker, Slack, Helm, GitHub, Argo CD, Kubernetes, SonarQube
+**[PowerShell Batch](https://github.com/anmolpal/PowerShell-Batch)**
+- Deploying a robust infrastructure on Windows using PowerShell Scripting.
+- Tools: PowerShell
 
-**[Budget-App](https://github.com/Saurabhkr952/Budget-App)**
-- Stateful Ruby on Rails Apps Deployment on Kubernetes with GitOps.
-- Tools: Ruby, PostgreSQL, GitHub, Docker, GitHub Actions, Argo CD, Kubernetes
+**[Docker Container of Big Data Tools](https://hub.docker.com/repository/docker/anmolrecker/spark-hadoop/general)**
+- Creating Docker Images from Scratch consisting of Big Data Tools like Hadoop and Spark in a Docker Container.
+- Tools: Linux, Shell, Docker, Dockerfile.
 
 **[personal-portfolio](https://github.com/saurabhkr952/my-portfolio)**
 - Building Scalable and Reliable Applications with Jenkins, Node/React, Argo CD, and EKS.
