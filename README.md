@@ -58,9 +58,9 @@ I'm Anmol<div align="right">
 
 **[Docker Container of Big Data Tools](https://hub.docker.com/repository/docker/anmolrecker/spark-hadoop/general)**
 - Creating Docker Images from Scratch consisting of Big Data Tools like Hadoop and Spark in a Docker Container.
-- Tools: Linux, Shell, Docker, Dockerfile.
+- Tools: Linux, Shell, Docker, Dockerfile, Azure ACR.
 
-**[personal-portfolio](https://github.com/saurabhkr952/my-portfolio)**
+**[Airflow Container App for Azure MarketPlace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/kockpitanalyticspvtltd1645177427945.container-airflow?tab=Overview)**
 - Building Scalable and Reliable Applications with Jenkins, Node/React, Argo CD, and EKS.
 - Tools: Node.js, GitHub, Docker, Jenkins, Argo CD, AWS EKS
 
